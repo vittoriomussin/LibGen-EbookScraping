@@ -1,0 +1,284 @@
+- any -
+Abkhazian
+Acoli
+Afaan Oromoo (Oromo)
+Afrikaans
+Ajme Williams
+Albanian
+Amharic
+Ancient Greek
+Antillean Creole (Kwéyòl / Kréyòl)
+Antillean Creole (Kwéyòl / Kréyòl); French
+Antillian Creole; French; English; Spanish
+ar
+ara, eng
+Arabic
+Arabic, kurdish
+Aragonese
+Armenian
+Assamese
+Aymara; Quechua; Spanish
+Azerbaijani
+Bambara (Bámánánkán)
+Bangla
+Basque
+Belarusian
+Bengali
+Bokmål, Norwegian; Norwegian Bokmål
+Bosnian
+Brazilian Portuguese
+Breton
+bruxellois
+Bulgarian
+Burmese
+Cape Verdean Creole / Kriolu
+Catalan
+Catalan; Aranese
+Catalan; Valencian
+Cebuano
+Chichewa / Nyanja
+Chinese
+Chinese, English
+chiShona (Shona)
+chiShona (Shona); Swahili; English
+Croatian
+Croatian, Serbian,
+Croatian, Serbian, Bosnian, Serbo-Croatian
+Czech
+Danish
+Dansk
+deu, eng
+deu, ita
+Deutsch
+deutsch, english
+Dholuo
+Diné bizaad (Navajo); English
+Dutch
+Dutch; Flemish
+EN
+en-US
+eng, eng, nld
+eng, fra, fra, jpn
+eng, fra, nld
+eng, jpn
+eng, nld
+English
+English    German
+English / French
+English & Croatian
+English & Spanish
+English Russian
+English-Greek
+English-Italian
+english-spanish
+English-Turkish
+English, Arabic
+English, French
+English, German
+English, Haitian Creole
+English, Italian
+English, Japanese
+English, Portuguese
+English, Russian
+English, Spanish
+English; Greek
+English; Italian
+English; Kiswahili (Swahili)
+English; Southern Sotho (Sesotho)
+English; Yiddish
+English; Zezuru (chiShona / Shona)
+English;Latin
+English/German
+Español
+Español - Spanish
+Esperanto
+essp
+Estonian
+et
+eu
+European Portuguese
+Faroese
+Farsi
+Filipino
+Filipino, English
+Filipino; Pilipino
+Finnish
+Franch
+French
+French, English
+French, picard
+Galego
+Galician
+Georgian
+German
+German - Spanish
+German-English
+Germna
+Gĩgĩkũyũ (Kikuyu)
+Greek
+Greek, Modern
+Greek, Modern (1453-
+Greek, Modern (1453-)
+Gujarati
+Haitian Creole / Kreyòl ayisyen
+Haitian Creole / Kreyòl ayisyen; English
+Haitian Creole / Kreyòl ayisyen; French
+Haitian Creole; English; French; Spanish
+Haitian Creole; French; English
+Hebrew
+Hindi
+Hungarian
+Icelandic
+Igbo
+Indigenous
+Indonesian
+Irish
+isiNdebele (Northern Ndebele)
+isiZulu (Zulu)
+Italian
+Italian-Spanish
+Italian; English
+Italian; Portuguese
+Italian/English
+italiano
+Izon (Ijaw) and English
+Japanese
+Kannada
+Kazakh
+Kiswahili (Swahili)
+Korean
+Korean-English
+Kurdish
+Latin
+Latin/Portuguese
+Latvian
+Lingala
+Lithuanian
+Macedonian
+Malay
+Malayalam
+Malayalam Poetry
+Māori
+Marathi
+Mirandese
+Moldovan
+Moldovan, Romanian
+Nepali
+nl
+nld, deu, eng, nld
+Northern Sami
+Norwegian
+Norwegian Bokmål
+Occitan
+Occitan (post 1500)
+Otomí
+Panjabi
+Panjabi، Punjabi
+Panjabi; Punjabi
+Pashto
+Persian
+Polish
+Polish / English
+Português
+Português brasileiro
+Portuguese
+Portuguese Brazilian
+Portuguese, English
+Portuguese/English
+Punjabi
+Punjabi-Urdu
+Quechua; Spanish
+Romana
+Romana / Engleza
+Romanian
+Romanian, Moldavian
+Romanian, Moldovan
+Romanian;
+Romanian; Moldavian; Moldovan
+Romanian/Moldovan
+Russian
+Russian (Old)
+Russian / English
+Russian, English, French
+Russian, German
+Russian, Italian
+Russian/English
+Sanskrit
+Sardinian
+Scots
+Scottish Gaelic
+Serbian
+Serbo-Croatian
+Serbo-Croatian, Bosnian, Croatian, Serbian
+Sesotho (Southern Sotho)
+Setswana (Tswana)
+Slovak
+Slovene
+Slovene, Slovenian
+Slovenian
+Somali
+Spanish
+Spanish and Zapotec
+Spanish-English
+Spanish, Castilian
+spanish, english
+Spanish, German
+Spanish, Mexican
+Spanish;
+Spanish; Aymara
+Spanish; Castilian
+Spanish; Castilian Spanish
+Spanish; english
+Spanish; French
+Spanish; Italian
+Spanish; Quechua; Aymara
+Spanish; Vietnamese
+Spanish;Castilianish;Castilian
+Spanish;Castiliannish;Castilian
+Spanish;Mexican
+Spanish;Portuguese
+srpsko-hrvatski
+St. Lucian Creole / Kwéyòl; English
+Sunda
+sv
+Swahili
+Swedish
+Swedish, English
+Swedish, Norwegian, Danish
+Tagalog
+Tahitian
+Tamil
+Telugu
+Thai
+Tibetan
+tl
+tr, kz
+Tshivenda (Venda); English
+Tswana
+Turkish
+Turkish, Arabic
+Turkish, English
+Turkish, English, Arabic
+Turkish, German
+Turkish, Ottoman (1500-1928)
+Turkish, Spanish
+Turkmen
+Udmurt
+Ukrainian
+Ukrainian, English
+Ukrainian, Polish, Slovak
+Ukrainian, Russian
+Undetermined
+Urdu
+Uzbek
+Vietnamese
+Welsh
+Wolof
+Wolof; French
+Yiddish, English
+Yugoslavian
+Zapoteco
+Zhuang; Chuang
+עברית
+اردو
+中文
